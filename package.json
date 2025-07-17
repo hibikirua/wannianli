@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://你的GitHub用户名.github.io/wan-nian-li/",
+  "homepage": "https://你的GitHub用户名.github.io/wannianli/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
